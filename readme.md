@@ -17,7 +17,7 @@ Chapter 3: Rescue Basics
 7. Describe the chain of custody.
 
 
-## 1. OEC Preperation - Be Prepared to Help 
+## 3.1  OEC Preperation - Be Prepared to Help 
 
 Here are the key steps an Outdoor Emergency Care (OEC) technician can take to be prepared when responding 
 to a request for assistance:
@@ -32,7 +32,7 @@ These steps help ensure an OEC technician can respond effectively and provide ap
 
 
 
-## 2. Layering clothing
+## 3.2 Layering clothing
 
 Layering clothing helps preserve body heat by creating a system of insulation and temperature regulation through three main layers:
 
@@ -43,7 +43,7 @@ Layering clothing helps preserve body heat by creating a system of insulation an
 This system allows for temperature control by adding or removing layers based on activity level and environmental conditions, helping to retain body heat and prevent hypothermia.
 
 
-## 3. Five modes of disease transmission
+## 3.3  Five modes of disease transmission
 
 Here are five modes of disease transmission, each with a brief description:
 
@@ -60,7 +60,7 @@ Here are five modes of disease transmission, each with a brief description:
 3. **Body Substance Isolation (BSI)**: A form of infection control that focuses on isolating all body substances (blood, urine, saliva, etc.) to reduce the risk of transmission of pathogens between patients and healthcare workers.
 4. **Hazardous Material (HazMat)**: Any substance that poses a significant risk to health, safety, or the environment, including chemicals, radioactive materials, biological agents, and other potentially harmful substances.
 
-## 4. Personal Protective Equipment (PPE) used by OEC technicians:
+## 3.4 Personal Protective Equipment (PPE) used by OEC technicians:
 
 Here’s a list of common personal protective equipment (PPE) used by OEC technicians:
 
@@ -73,7 +73,7 @@ Here’s a list of common personal protective equipment (PPE) used by OEC technici
 
 These items help protect both the technician and the patient from potential hazards and the spread of infections.
 
-## Safely Removing Contaminated Medical Gloves
+## 3.5 Safely Removing Contaminated Medical Gloves
 
 1. **Pinch the outside of one glove**: Using your non-dominant hand, pinch the outside of the glove near the wrist without touching your skin.
 2. **Peel the glove off**: Pull the glove away from your wrist, turning it inside out as you remove it.
