@@ -114,7 +114,7 @@ To get started with the **Nsp Oec Training Chapter 3** solution repository, foll
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](NSP_OEC_Training_Chapter_3.png)  <br>
+ ![additional_image](NSP_OEC_Training_Chapter_3.png)  <br>![additional_image](O_P_Q_R_S_T_Pain_Asessment.png)  <br>![additional_image](patient_assessment.png)  <br>![additional_image](S_A_M_P_L_E.png)  <br>
     
 
 ## Github    
