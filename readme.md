@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 3 - National Ski Patrol - Outdoor Emergency Care chapter 3
-National Ski Patrol - Outdoor Emergency Care chapter 3
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 3 - National Ski Patrol - Outdoor Emergency Care chapter 3![Image image_filename](code.png)
 Chapter 3: Rescue Basics
 
 1. Describe the steps an OEC technician can take to be prepared when responding to a request for assistance.
@@ -87,9 +80,7 @@ These steps help minimize the risk of contaminating your skin and surroundings.
 
 
 
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Nsp Oec Training Chapter 3** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -104,6 +95,9 @@ To get started with the **Nsp Oec Training Chapter 3** solution repository, foll
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -113,13 +107,11 @@ To get started with the **Nsp Oec Training Chapter 3** solution repository, foll
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](NSP_OEC_Training_Chapter_3.png)  <br>![additional_image](O_P_Q_R_S_T_Pain_Asessment.png)  <br>![additional_image](patient_assessment.png)  <br>![additional_image](S_A_M_P_L_E.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
