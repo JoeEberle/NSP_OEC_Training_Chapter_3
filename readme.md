@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 3 - National Ski Patrol - Outdoor Emergency Care chapter 3![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Nsp Oec Training Chapter 3 
+    ## National Ski Patrol - Outdoor Emergency Care chapter 3
+    ![Image image_filename](code.png)
 Chapter 3: Rescue Basics
 
 1. Describe the steps an OEC technician can take to be prepared when responding to a request for assistance.
@@ -90,12 +93,15 @@ To get started with the **Nsp Oec Training Chapter 3** solution repository, foll
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
