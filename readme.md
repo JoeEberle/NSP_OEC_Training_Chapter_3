@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Nsp Oec Training Chapter 3 
-    ## National Ski Patrol - Outdoor Emergency Care chapter 3
+    
+# Nsp Oec Training Chapter 3 
+
+## National Ski Patrol - Outdoor Emergency Care chapter 3
+
     ![Image image_filename](code.png)
 Chapter 3: Rescue Basics
 
@@ -103,9 +106,9 @@ To get started with the **Nsp Oec Training Chapter 3** solution repository, foll
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Nsp Oec Training Chapter 3** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -115,6 +118,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](NSP_OEC_Training_Chapter_3.png)  <br>![additional_image](O_P_Q_R_S_T_Pain_Asessment.png)  <br>![additional_image](patient_assessment.png)  <br>![additional_image](S_A_M_P_L_E.png)  <br>
