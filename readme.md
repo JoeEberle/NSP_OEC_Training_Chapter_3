@@ -64,7 +64,7 @@ Here are five modes of disease transmission, each with a brief description:
 
 ## 3.4 Personal Protective Equipment (PPE) used by OEC technicians:
 
-Here’s a list of common personal protective equipment (PPE) used by OEC technicians:
+Hereâ€™s a list of common personal protective equipment (PPE) used by OEC technicians:
 
 1. Gloves (usually nitrile or latex-free)
 2. Protective eyewear (goggles or safety glasses)
