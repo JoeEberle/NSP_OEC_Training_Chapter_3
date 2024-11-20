@@ -64,7 +64,7 @@ Here are five modes of disease transmission, each with a brief description:
 
 ## 3.4 Personal Protective Equipment (PPE) used by OEC technicians:
 
-Hereâ€™s a list of common personal protective equipment (PPE) used by OEC technicians:
+Here’s a list of common personal protective equipment (PPE) used by OEC technicians:
 
 1. Gloves (usually nitrile or latex-free)
 2. Protective eyewear (goggles or safety glasses)
@@ -95,24 +95,4 @@ These steps help minimize the risk of contaminating your skin and surroundings.
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 3** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](NSP_OEC_Training_Chapter_3.png)  <br>![additional_image](O_P_Q_R_S_T_Pain_Asessment.png)  <br>![additional_image](patient_assessment.png)  <br>![additional_image](S_A_M_P_L_E.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
